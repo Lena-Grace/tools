@@ -1,0 +1,18 @@
+This is a text file.
+
+Find all the lines that contain the
+
+word schwifty
+
+if The line doesn't contain the w
+ord schwifty then we
+
+don't care about it but if it does. the program
+
+should return the line
+that
+has
+schwifty
+
+in it.
+
